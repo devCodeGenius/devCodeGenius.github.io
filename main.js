@@ -1,0 +1,1 @@
+console.log('This is Official CodeGenius website. For See the intraction goto int.htm');//vscode-app/c:/Users/Syathir%20&%20Uwais/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html
